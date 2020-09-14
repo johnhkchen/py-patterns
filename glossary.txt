@@ -1,0 +1,3 @@
+Client - Capable of obtaining service from another program.
+
+Interface - Connects two items so that they can be in sync.
